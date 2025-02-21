@@ -1,4 +1,0 @@
-LCD display
-ESP32
-Rain sensor
-DHT11
